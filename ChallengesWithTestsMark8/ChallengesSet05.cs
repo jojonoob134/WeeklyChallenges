@@ -13,11 +13,13 @@ namespace ChallengesWithTestsMark8
         public void ChangeNamesOfBusinessesWithNoRevenueTo_CLOSED(Business[] businesses)
         {
             throw new NotImplementedException();
+            //if (businesses.TotalRevenue == 0))
         }
 
         public bool IsAscendingOrder(int[] numbers)
         {
             throw new NotImplementedException();
+            //int isTrue = ()
         }
 
         public int SumElementsThatFollowAnEven(int[] numbers)
