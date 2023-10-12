@@ -145,7 +145,7 @@ namespace ChallengesWithTestsMark8
 
         public long CountOfPositiveOddsBelowNumber(long number)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
             int lowerOne = 0;
             while (number > 0)
             {
